@@ -1,0 +1,17 @@
+        ArrayList<Integer> topo = new ArrayList<>();
+        while (!q.isEmpty()) {
+            int u = q.poll();
+            topo.add(u);
+            for (int[] edge : graph[u]) {
+                if (--indegree[edge[0]] == 0)
+                    q.offer(edge[0]);
+            }
+        }
+        int left = 0, right = 1_000_000_000;
+        int ans = -1;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            long INF = Long.MAX_VALUE / 4;
+            long[] dp = new long[n];
+            Arrays.fill(dp, INF);
+            dp[0] = 0;

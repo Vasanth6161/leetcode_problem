@@ -21,7 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 3286 | [Find a Safe Walk Through a Grid](./Array/Find%20a%20Safe%20Walk%20Through%20a%20Grid/) | Medium |
-| 3620 | [Network Recovery Pathways](./Array/Network%20Recovery%20Pathways/) | Hard |
+| 3620 | [Network Recovery Pathways](./Array/Network%20Recovery%20Pathways/) | Easy |
 
 </details>
 
