@@ -26,6 +26,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Depth-First Search
+<details>
+<summary>Click to expand Depth-First Search problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 2492 | [Minimum Score of a Path Between Two Cities](./Depth-First%20Search/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/) | Medium |
+
+</details>
+
+
 ### Math
 <details>
 <summary>Click to expand Math problems</summary>
