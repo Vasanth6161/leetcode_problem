@@ -22,6 +22,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 1301 | [Number of Paths with Max Score](./Array/Number%20of%20Paths%20with%20Max%20Score/) | Hard |
 | 3286 | [Find a Safe Walk Through a Grid](./Array/Find%20a%20Safe%20Walk%20Through%20a%20Grid/) | Medium |
+| 3534 | [Path Existence Queries in a Graph II](./Array/Path%20Existence%20Queries%20in%20a%20Graph%20II/) | Hard |
 | 3620 | [Network Recovery Pathways](./Array/Network%20Recovery%20Pathways/) | Easy |
 
 </details>
