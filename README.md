@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
+| 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 1301 | [Number of Paths with Max Score](./Array/Number%20of%20Paths%20with%20Max%20Score/) | Hard |
 | 1331 | [Rank Transform of an Array](./Array/Rank%20Transform%20of%20an%20Array/) | Easy |
 | 3286 | [Find a Safe Walk Through a Grid](./Array/Find%20a%20Safe%20Walk%20Through%20a%20Grid/) | Medium |
