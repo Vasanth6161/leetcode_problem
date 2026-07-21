@@ -47,6 +47,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
+| 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 
 </details>
 
